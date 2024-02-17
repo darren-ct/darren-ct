@@ -13,14 +13,16 @@ Up to <b>2 years of real work experience</b> and <b>participation in 6 business 
 
 - <b>Inilah.com News Website</b>
     
-- <bJobfornesia Landing Page</b>
+- <b>Jobfornesia Landing Page</b>
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Darren Christian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Darren Christian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/darren_technologies/
-[linkedin]: https://www.linkedin.com/in/darren-christian-t/
+Phone Number: +62 881027163631
+</br>
+Email: <a href="https://darren0208.dc@gmail.com/">darren0208.dc@gmail.com</a>
+</br>
+LinkedIn: <a href="https://www.linkedin.com/in/darren-christian-t/"> https://www.linkedin.com/in/darren-christian-t/</a>
+</br>
+Instagram: <a href="https://www.instagram.com/darren_technologies/">https://www.instagram.com/darren_technologies</a>
