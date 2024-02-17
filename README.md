@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Mid-Level Frontend Engineer</a>
 
-<!--
-**darren-ct/darren-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🤔 Who am I?</h2>
 
-Here are some ideas to get you started:
+Up to <b>2 years of real work experience</b> and <b>participation in 6 business projects.</b> A frontend engineer focusing on making clean, performant and scalable systems for startups. Disciplined, competitive, and willing to learn new stacks. Always open for criticism and improvement. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Kontenbase No-code App-Builder</b>
+  
+- <b>Dumbways Learning Management System</b>
+
+- <b>Inilah.com News Website</b>
+    
+- <bJobfornesia Landing Page</b>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Darren Christian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Darren Christian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/darren_technologies/
+[linkedin]: https://www.linkedin.com/in/darren-christian-t/
