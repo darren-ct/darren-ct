@@ -15,6 +15,8 @@ Up to <b>2 years of real work experience</b> and <b>participation in 6 business 
     
 - <b>Jobfornesia Landing Page</b> <a href="https://jobfornesia-v2-www.vercel.app/">( Click here to see )</a>
 
+<h2>📱 Profficient at:</h2>
+
 
 
 <h2> 🤳 Connect with me:</h2>
