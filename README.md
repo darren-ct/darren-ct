@@ -21,7 +21,7 @@ Up to <b>2 years of real work experience</b> and <b>participation in 6 business 
 
 Phone Number: +62 881027163631
 </br>
-Email: <a href="https://darren0208.dc@gmail.com/">darren0208.dc@gmail.com</a>
+Email: <a href="darrenct.dev@gmail.com">darrenct.dev@gmail.com</a>
 </br>
 LinkedIn: <a href="https://www.linkedin.com/in/darren-christian-t/"> https://www.linkedin.com/in/darren-christian-t/</a>
 </br>
