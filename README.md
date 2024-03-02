@@ -7,13 +7,13 @@ Up to <b>2 years of real work experience</b> and <b>participation in 6 business 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Kontenbase No-code App-Builder</b>
+- <b>Kontenbase No-code App-Builder.</b> <a href="https://kontenbase.com/">( Click here to see )</a>
   
-- <b>Dumbways Learning Management System</b>
+- <b>Dumbways Learning Management System</b> <a href="https://dumbways.id/">( Click here to see )</a>
 
-- <b>Inilah.com News Website</b>
+- <b>Inilah.com News Website</b> <a href="https://inilah.com/">( Click here to see )</a>
     
-- <b>Jobfornesia Landing Page</b>
+- <b>Jobfornesia Landing Page</b> <a href="https://jobfornesia-v2-www.vercel.app/">( Click here to see )</a>
 
 
 
